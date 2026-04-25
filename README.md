@@ -1,4 +1,6 @@
 # 英文 | [中文](README_cn.md)
+Product detail: [WLKATA BRAVE](https://www.wlkata.com/products/brave-edu-kit-biped-robot-three-multi-modal-point-foot-wheeled-sole-modal-rgbd-camera-sdk-openapi-sim2real-ai-robotics-humanoid-research-platform)
+
 # rl-deploy-with-python
 
 ## 1. Running the Simulation
